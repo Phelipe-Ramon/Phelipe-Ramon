@@ -46,8 +46,9 @@ Gosto de criar projetos que resolvem problemas reais e mostrem minha evolução 
 
 ## 📌 Projetos em destaque
 
-### 🔹 [Desafio-Python](https://github.com/Misael-133/Desafio-Python)
-Repositório com exercícios práticos em Python, cobrindo lógica de programação, estruturas condicionais, loops, cálculos e simulações de problemas reais.
+### 🔹 [Sistema-Eventos](https://github.com/Phelipe-Ramon/Sistema-Eventos)
+Projeto em C# para gerenciamento de eventos, com funcionalidades de inscrição e listagem de participantes, aplicando conceitos de orientação a objetos e LINQ.
+
 
 
 ---
