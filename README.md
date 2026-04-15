@@ -8,7 +8,7 @@
   <a href="https://github.com/Phelipe-Ramon">
     <img src="https://komarev.com/ghpvc/?username=Phelipe-Ramon&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" alt="contador de visualizações" />
   </a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/phelipe-ramon/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
